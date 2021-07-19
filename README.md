@@ -5,7 +5,7 @@
 - Para el frontend: React, Redux, Tailwind
 - Para el backend: Node JS, Express, Sequelize
 
-### Mini demostracion
+### Demostracion
 
 ![Herby](herby.gif)
 
