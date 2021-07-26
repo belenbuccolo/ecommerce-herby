@@ -1,16 +1,19 @@
-# Proyecto Ecommerce para Plataforma 5
+# Herby
 
-### Tecnologias usadas:
+Ecommerce project for Plataforma5 Coding Bootcamp
 
-- Para el frontend: React, Redux, Tailwind
-- Para el backend: Node JS, Express, Sequelize
-
-### Demostracion
+### Demo
 
 ![Herby](herby.gif)
 
-### Pasos para correr el proyecto:
+### Built with:
 
-- Correr npm i desde la carpeta Front y desde la carpeta Back
-- Crear la base de datos local llamada "herby" en postgres
-- Correr npm start desde la carpeta Front y desde la carpeta Back
+- Frontend: React, Redux, Tailwind
+- Backend: Node JS, Express, Sequelize
+
+
+### Usage:
+
+- Run npm install inside Front and Back folder
+- Create postgres local database named "herby"
+- Run npm start inside Front and Back folder
